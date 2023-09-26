@@ -22,7 +22,7 @@
 
 [![@ShuaibAli1's Github Stats](https://github-readme-stats.vercel.app/api?username=ShuaibAli1&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ShuaibAli1)
 
-[![@ShuaibAli's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedgas&theme=vue)](https://github.com/ShuaibAli1)
+[![@ShuaibAli's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuaibAli1&theme=vue)](https://github.com/ShuaibAli1)
 
 ### Want to support?
  
