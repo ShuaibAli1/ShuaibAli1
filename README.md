@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40-Eng-ShuaibAli1+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently 3rd Year @UW 
+- 🔭 I’m currently in my senior year @UW 
 - 🌱 I’m currently curious about web and Front and backend development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about [Java](https://www.java.com/en/), [SpringBoot](https://spring.io/).
