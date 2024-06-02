@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying @UW 
-- 🌱 I’m currently curious about web and Front and backend development.
+- 🌱 I’m curious about web, front-end, and back-end development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about [Java](https://www.java.com/en/), [SpringBoot](https://spring.io/).
 -  Contributor @Tanaad-Tek Organization & Keelworks Foundation
